@@ -1,0 +1,63 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.swp
+*.suo
+*.user
+*.userosscache
+*.suo
+*.csproj.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+x64/
+x86/
+out/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+
+# NPM
+node_modules/
+npm-debug.log
+
+# Webpack
+dist/
+
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+
+# JetBrains Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper
+*.DotSettings
+*.DotSettings.user
